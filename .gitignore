@@ -1,0 +1,11 @@
+# Dependensi
+node_modules/
+
+# Konfigurasi rahasia
+.env
+.env.*
+!.env.example
+
+# File sementara lokal
+tmp/
+temp/
