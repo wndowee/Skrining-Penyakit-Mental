@@ -2,4 +2,6 @@ Download File Ini ZIP, Lalu Exstrak, Masuk VS Code Pilih Folder Yang Udah Di Ext
 
 --jalanin perintah ini--
 pip install -r requitment.txt
-run streamli 
+python -m venv env
+.\env\Scripts\activate
+streamlit run .\Skrining.py     
